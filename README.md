@@ -108,6 +108,31 @@ Features Description:
 ### Evolution of Payment Types in Brazilian E-Commerce
 ![output6](Images/output6.png) <br>
 
+## Clustering
+![output6](Images/cluster.png) <br>
+
+### Based on the result of the clustering, we can conclude:
+
+1. Class 2 : High Monetary & Low Recency
+- Recent and high spending customer
+- Still fresh with high trust to spend more
+- This type of customer is the customer we want to retain it is our best customer
+
+2. Class 0 : High Monetary & High Recency
+- One of our old customer
+- But have the trust to spend high
+- Type of customer that goes through our e-commerce when they want to buy high value products
+
+3. Class 3 : Low Monetary & Low Recency
+- Fresh customers
+- Spends not as much as class 0 and class 2
+- Type of customer that loves shopping and buying small things
+
+4. Class 1 : Low Monetary & High Recency
+- Customers that are trying out our e-commerce
+- Had a low spending
+- The type of customer that tries our e-commerce and may end up not liking it
+
 
 
 
