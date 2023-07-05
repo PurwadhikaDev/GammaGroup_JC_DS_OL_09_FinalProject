@@ -90,13 +90,26 @@ Features Description:
 
 ## Exploratory Data Analysis <br>
 
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
-![Data Sets Scheme](Images/data_schemeArtboard_1.png) <br>
+### Evolution of Total Orders in Brazilian E-Commerce
+![output1](Images/output1.png) <br>
+
+### Total Orders Comparison Between 2017 and 2018 (January to August)
+![output2](Images/output2.png) <br>
+
+### Evolution of E-Commerce Orders on Brazilian Regions
+![output3](Images/output3.png) <br>
+
+### Evolution of E-commerce: Total Orders and Total Amount Sold in R$
+![output4](Images/output4.png) <br>
+
+### Comparative Study: E-Commerce Delivery Performance
+![output5](Images/output5.png) <br>
+
+### Evolution of Payment Types in Brazilian E-Commerce
+![output6](Images/output6.png) <br>
+
+
+
 
 
 
